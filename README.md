@@ -1,6 +1,6 @@
 # Alleviating Exposure Bias via Contrastive Learning for Abstractive Text Summarization
 
-This repository is the implementation for the paper Alleviating Exposure Bias via Contrastive Learning for Abstractive Text Summarization.
+This repository is the implementation for the paper [Alleviating Exposure Bias via Contrastive Learning for Abstractive Text Summarization](https://arxiv.org/abs/2108.11846).
 
 Some of my codes come from the Transformers example in https://github.com/huggingface/transformers/tree/v4.0.1/examples/seq2seq.
 
